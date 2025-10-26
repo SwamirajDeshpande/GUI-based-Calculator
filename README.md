@@ -1,4 +1,4 @@
-# 🧮 Simple GUI Calculator
+# 🧮 Simple GUI Calculator using Java
 ## ⭐ Project Overview
 This is a basic calculator application developed using the Java programming language. It provides a user-friendly Graphical User Interface (GUI) for performing standard arithmetic operations (addition, subtraction, multiplication, and division). The project focuses on creating an efficient and visually appealing desktop tool leveraging Java's foundational GUI libraries.
 ## 🛠️ Technologies Used
