@@ -10,3 +10,6 @@ This is a basic calculator application developed using the Java programming lang
 * Decimal Support: Handles floating-point numbers.
 * Clear Functionality: A clear button (C) to reset the input and result.Intuitive
 * GUI: A clean and easy-to-use interface built with Java Swing components
+------------------------------------------------------------------------------------
+## Author
+Swamiraj Deshpande
