@@ -13,3 +13,6 @@ This is a basic calculator application developed using the Java programming lang
 ------------------------------------------------------------------------------------
 ## Author
 Swamiraj Deshpande
+
+Second-year B.Tech Computer Science & Engineering (AIML)
+Vishwakarma Institute of Technology, Pune
