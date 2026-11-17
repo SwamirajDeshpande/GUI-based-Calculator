@@ -15,4 +15,7 @@ This is a basic calculator application developed using the Java programming lang
 Swamiraj Deshpande
 
 Second-year B.Tech Computer Science & Engineering (AIML)
+
 Vishwakarma Institute of Technology, Pune
+
+⭐If you like the repository, consider starring the repository
